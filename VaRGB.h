@@ -79,6 +79,9 @@
 #ifndef VARGB_H_
 #define VARGB_H_
 
+#define VARGB_VERSION		1
+#define VARGB_SUBVERSION	0
+
 #include "includes/VaRGBConfig.h"
 #include "includes/VaRGBPlatform.h"
 #include "includes/Schedule.h"
