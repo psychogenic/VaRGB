@@ -1,0 +1,56 @@
+#######################################
+# Syntax Coloring Map For TinyBrite
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+vargb	KEYWORD1
+VaRGB	KEYWORD1
+ColorSettings	KEYWORD1
+Schedule	KEYWORD1
+Curve	KEYWORD1
+Linear	KEYWORD1
+Flasher	KEYWORD1
+Sine	KEYWORD1
+AndLogic	KEYWORD1
+OrLogic	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# VaRGB
+tickDelayTimeMs	KEYWORD2
+setSchedule	KEYWORD2
+resetTicks	KEYWORD2
+tickCount	KEYWORD2
+VaRGBTimeValue	KEYWORD2
+tick	KEYWORD2
+tickAndDelay	KEYWORD2
+
+
+# Schedules
+addTransition	KEYWORD2
+setDriver	KEYWORD2
+id	KEYWORD2
+
+# Curves
+target	KEYWORD2
+setTarget	KEYWORD2
+completed	KEYWORD2
+settingsNeedUpdate	KEYWORD2
+setTick	KEYWORD2
+currentSettings	KEYWORD2
+resetCurrentSettings	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+VARGB	LITERAL1
